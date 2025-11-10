@@ -1,0 +1,9 @@
+
+body {font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fffaf6; color: #333;}
+header, footer {background: #6b3f2b; color: white; text-align: center; padding: 15px;}
+nav a {color: white; text-decoration: none; margin: 0 10px;}
+nav a:hover {text-decoration: underline;}
+.container {max-width: 900px; margin: auto; padding: 20px;}
+h1 {color: #6b3f2b;}
+button {background: #b58859; color: white; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer;}
+button:hover {background: #6b3f2b;}
